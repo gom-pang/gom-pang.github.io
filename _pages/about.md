@@ -24,29 +24,31 @@ My research interest includes computer vision and hand pose estimation.
 <br>
 
 
-# 📖 Educations
+# Educations
 - *2024.03 - (now)*, M.S./Ph.D in Artificial Intelligence, Korea University.
 - *2020.03 - 2024.02*, B.S. in Cyber Security, Ajou University. 
 <br>
 <br>
 
 
-# 💻 Work Experience
+# Work Experience
 - *2024.03 - (now)*, Student Researcher, Immersive Interaction Research Lab, ETRI.
 <br>
 <br>
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='images/eg_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Perspective Crop Based Egocentric Hand Pose Estimation via Fisheye Stereo Vision](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content)
+[Perspective Crop Based Egocentric Hand Pose Estimation via Fisheye Stereo Vision](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3)
 
 **Hyejin Hur**, Seongmin Baek, Younhee Gil, Sangpil Kim
 
-[**[Paper]**](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+EuroGraphics 2025 (poster)
+
+[**[Paper]**](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -54,7 +56,7 @@ My research interest includes computer vision and hand pose estimation.
 <br>
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2020*, Active Learner Scholarship, Ajou University.
 - *2021-2023*, Information Security Specialization Scholarship, Ajou University.
 - *2021-2023*, Undergraduate Student Scholarship, Suncheon-Yangcheon Hur Scholarship Foundation.
