@@ -46,6 +46,6 @@ My research interest includes computer vision and hand pose estimation.
 
 
 # 🎖 Honors and Awards
-- *2022.12* Excellent Award, AJOU Softcon
 - *2020.09* Active Learner Scholarship, Scholarship for academic excellence
 - *2021.03* Information Secuiry Specialization Scholarship, Ajou University.
+- *2022.12* Excellent Award, AJOU Softcon
