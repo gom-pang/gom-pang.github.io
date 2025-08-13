@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a MS/PhD student in the Department of Artificial Intelligence at Korea University and also a student researcher at ETRI(Electroincs and Telecommunications Research Institute).
+I am a MS/PhD student in the Department of Artificial Intelligence at Korea University and also working as a student researcher at ETRI(Electroincs and Telecommunications Research Institute).
 My research interest includes computer vision and hand pose estimation.
 
 
@@ -27,7 +27,7 @@ My research interest includes computer vision and hand pose estimation.
 
 
 # 💻 Work Experience
-- *2024.03 - (now)*, Immersive Interaction Research Lab, ETRI, Student Researcher.
+- *2024.03 - (now)*, Student Researcher, Immersive Interaction Research Lab, ETRI.
 
 
 # 📝 Publications 
@@ -39,13 +39,15 @@ My research interest includes computer vision and hand pose estimation.
 
 **Hyejin Hur**, Seongmin Baek, Younhee Gil, Sangpil Kim
 
-[**Paper**](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Paper]**](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose two-stage method to improve the performance of hand pose estimation from egocentric view. 
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2020.09* Active Learner Scholarship, Scholarship for academic excellence
-- *2021.03* Information Secuiry Specialization Scholarship, Ajou University.
+- *2020* Active Learner Scholarship, Ajou University.
+- *2021-2023* Information Security Specialization Scholarship, Ajou University.
+- *2021-2023* Undergraduate Student Scholarship, Suncheon-Yangcheon Hur Scholarship Foundation.
+- *2024-2025* Graduate Student Scholarship, Suncheon-Yangcheon Hur Scholarship Foundation.
 - *2022.12* Excellent Award, AJOU Softcon
