@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a MS/PhD student in the Department of Artificial Intelligence at Korea University and also working as a student researcher at ETRI(Electroincs and Telecommunications Research Institute).
+I am a MS/PhD student in the Department of Artificial Intelligence at Korea University and also working as a student researcher at ETRI(Electronics and Telecommunications Research Institute).
 <br>
 My research interest includes computer vision and hand pose estimation.
+<br>
 <br>
 
 
@@ -27,10 +28,12 @@ My research interest includes computer vision and hand pose estimation.
 - *2024.03 - (now)*, M.S./Ph.D in Artificial Intelligence, Korea University.
 - *2020.03 - 2024.02*, B.S. in Cyber Security, Ajou University. 
 <br>
+<br>
 
 
 # 💻 Work Experience
 - *2024.03 - (now)*, Student Researcher, Immersive Interaction Research Lab, ETRI.
+<br>
 <br>
 
 
@@ -47,6 +50,7 @@ My research interest includes computer vision and hand pose estimation.
 
 </div>
 </div>
+<br>
 <br>
 
 

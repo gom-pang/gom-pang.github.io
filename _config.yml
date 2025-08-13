@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hyejin Hur's Homepage"
+title                    : "Hyejin Hur"
 description              : " "
 repository               : "gom-pang/gom-pang.github.io"
 google_scholar_stats_use_cdn : true
