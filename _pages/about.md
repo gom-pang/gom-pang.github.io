@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a MS/PhD student in the Computer Vision Lab (KUAICV) at Korea University, led by [Prof. Sangpil Kim](https://kuaicv.com/). Also, I'm working as a student researcher at [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Electronics and Telecommunications Research Institute).
+I am a MS/PhD student in the [Computer Vision Lab (KUAICV Lab)](https://kuaicv.com/) at Korea University, led by Prof. Sangpil Kim. Also, I'm working as a student researcher at [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Electronics and Telecommunications Research Institute).
 <br>
 My research interest includes computer vision and hand pose estimation.
 <br>
