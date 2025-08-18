@@ -59,6 +59,6 @@ EuroGraphics 2025 (poster)
 # Honors and Awards
 - *2020*, Active Learner Scholarship, Ajou University.
 - *2021-2023*, Information Security Specialization Scholarship, Ajou University.
-- *2021-2023*, Undergraduate Student Scholarship, Suncheon-Yangcheon Hur Scholarship Foundation.
-- *2024-2025*, Graduate Student Scholarship, Suncheon-Yangcheon Hur Scholarship Foundation.
+- *2021-2023*, Undergraduate Student Scholarship, Suncheon-Yangcheon Hur's Scholarship Foundation.
+- *2024-2025*, Graduate Student Scholarship, Suncheon-Yangcheon Hur's Scholarship Foundation.
 - *2022.12*, Excellent Award, AJOU Softcon.
