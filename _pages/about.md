@@ -49,8 +49,7 @@ Myeongseok Nam, Wongi Park, Minsol Kim, **Hyejin Hur**, Soomok Lee
 
 ICIP 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.19138)
-[**Project**](https://nbril0313.github.io/Veta-GS/)
+[**Paper**](https://arxiv.org/pdf/2505.19138),  [**Project**](https://nbril0313.github.io/Veta-GS/)
 
 </div>
 </div>
