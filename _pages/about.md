@@ -40,6 +40,21 @@ My research interest includes computer vision and hand pose estimation.
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/icip_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Veta-GS: View-Dependent Deformable 3D Gaussian Splatting for Thermal Infrared Novel-view Synthesis](https://ieeexplore.ieee.org/abstract/document/11084339)
+
+Myeongseok Nam, Wongi Park, Minsol Kim, **Hyejin Hur**, Soomok Lee
+
+ICIP 2025 (poster)
+
+[**Paper**](https://arxiv.org/pdf/2505.19138)
+[**Project**](https://nbril0313.github.io/Veta-GS/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='images/eg_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +64,7 @@ My research interest includes computer vision and hand pose estimation.
 
 EuroGraphics 2025 (poster)
 
-[**[Paper]**](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content)
 
 </div>
 </div>
