@@ -49,7 +49,8 @@ Myeongseok Nam, Wongi Park, Minsol Kim, **Hyejin Hur**, Soomok Lee
 
 ICIP 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.19138),  [**Project**](https://nbril0313.github.io/Veta-GS/)
+[**Paper**](https://arxiv.org/pdf/2505.19138),  
+[**Project**](https://nbril0313.github.io/Veta-GS/)
 
 </div>
 </div>
@@ -63,7 +64,7 @@ ICIP 2025
 
 EuroGraphics 2025 (poster)
 
-[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content), 
+[**Paper**](files/eg2025/eg_2025_paper.pdf), 
 [**Poster**](files/eg2025/eg_2025_poster.pdf)
 
 </div>
