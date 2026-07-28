@@ -65,7 +65,8 @@ ICIP 2025
 EuroGraphics 2025 (poster)
 
 [**Paper**](files/eg2025/eg_2025_paper.pdf),
-[**Poster**](files/eg2025/eg_2025_poster.pdf)
+[**Poster**](files/eg2025/eg_2025_poster.pdf),
+[**Code**](https://github.com/gom-pang/pp-crop-egohand)
 
 </div>
 </div>
