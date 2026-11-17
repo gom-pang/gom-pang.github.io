@@ -38,7 +38,7 @@ My research interest includes computer vision and hand pose estimation.
 <br>
 
 
-# Publications 
+# Publications
 
 <!-- VRST 2026 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_2026.jpg' alt="sym" width="100%"></div></div>
@@ -56,6 +56,37 @@ VRST 2026 (poster)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_baek.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-Time Full-body Avatar Control in VR Using Glasses-Mounted Stereo Cameras](https://dl.acm.org/doi/10.1145/3822517.3849922)
+
+Seongmin Baek, Hyunjun Lim, **Hyejin Hur**, Younhee Gil
+
+VRST 2026 (poster)
+
+[**Paper**](files/2026vrst/vrst_baek.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_lim.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Pose Estimation as an Online Metric Ruler for Egocentric SLAM](https://dl.acm.org/doi/10.1145/3822517.3849937)
+
+Hyunjun Lim, Seongmin Baek, **Hyejin Hur**, Younhee Gil
+
+VRST 2026 (poster)
+
+[**Paper**](files/2026vrst/vrst_lim.pdf)
+
+</div>
+</div>
+
+
+
 
 <!-- ICIP 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='files/2025icip/icip_2025.png' alt="sym" width="100%"></div></div>
