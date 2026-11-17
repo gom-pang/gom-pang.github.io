@@ -51,7 +51,7 @@ My research interest includes computer vision and hand pose estimation.
 VRST 2026 (poster)
 
 [**Paper**](files/2026vrst/vrst_2026_paper.pdf),
-[**Poster**](files/eg2025/vrst_2026_poster.pdf),
+[**Poster**](files/2026vrst/vrst_2026_poster.pdf),
 [**Code**](https://github.com/gom-pang/EgoLiveHAND)
 
 </div>
@@ -83,8 +83,8 @@ ICIP 2025
 
 EuroGraphics 2025 (poster)
 
-[**Paper**](files/eg2025/eg_2025_paper.pdf),
-[**Poster**](files/eg2025/eg_2025_poster.pdf),
+[**Paper**](files/2025eg/eg_2025_paper.pdf),
+[**Poster**](files/2025eg/eg_2025_poster.pdf),
 [**Code**](https://github.com/gom-pang/pp-crop-egohand)
 
 </div>
