@@ -71,7 +71,7 @@ VRST 2026 (poster)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_lim.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_lim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Human Pose Estimation as an Online Metric Ruler for Egocentric SLAM](https://dl.acm.org/doi/10.1145/3822517.3849937)
