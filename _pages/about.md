@@ -40,7 +40,23 @@ My research interest includes computer vision and hand pose estimation.
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='files/icip2025/icip_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EgoLiveHAND: Real-Time Egocentric 3D Hand Pose Estimation with Stereo Fisheye Glasses](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3)
+
+**Hyejin Hur**, Seongmin Baek, Hyunjun Lim, Younhee Gil
+
+VRST 2026 (poster)
+
+[**Paper**](files/2026vrst/vrst_2026_paper.pdf),
+[**Poster**](files/eg2025/vrst_2026_poster.pdf),
+[**Code**](https://github.com/gom-pang/EgoLiveHAND)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='files/2025icip/icip_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Veta-GS: View-Dependent Deformable 3D Gaussian Splatting for Thermal Infrared Novel-view Synthesis](https://ieeexplore.ieee.org/abstract/document/11084339)
@@ -55,7 +71,7 @@ ICIP 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='files/eg2025/eg_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='files/2025eg/eg_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Perspective Crop Based Egocentric Hand Pose Estimation via Fisheye Stereo Vision](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3)
