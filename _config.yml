@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hyejin Hur"
-  avatar           : "images/hj.png"
-  bio              : "MS/PhD Student @ Korea University"
+  avatar           : "files/images/hj.png"
+  bio              : "MS/PhD Student @ Korea University, ETRI"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
