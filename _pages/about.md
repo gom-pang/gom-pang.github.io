@@ -43,7 +43,7 @@ My research interest includes computer vision and hand pose estimation.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EgoLiveHAND: Real-Time Egocentric 3D Hand Pose Estimation with Stereo Fisheye Glasses](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3)
+[EgoLiveHAND: Real-Time Egocentric 3D Hand Pose Estimation with Stereo Fisheye Glasses](https://dl.acm.org/doi/10.1145/3822517.3849925)
 
 **Hyejin Hur**, Seongmin Baek, Hyunjun Lim, Younhee Gil
 
