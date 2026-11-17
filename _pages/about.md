@@ -40,6 +40,7 @@ My research interest includes computer vision and hand pose estimation.
 
 # Publications 
 
+<!-- VRST 2026 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VRST 2026</div><img src='files/2026vrst/vrst_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +57,7 @@ VRST 2026 (poster)
 </div>
 </div>
 
+<!-- ICIP 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='files/2025icip/icip_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,6 +73,7 @@ ICIP 2025
 </div>
 </div>
 
+<!-- EuroGraphics 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='files/2025eg/eg_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
